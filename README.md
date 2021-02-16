@@ -10,7 +10,7 @@ Welcome, if you are reading this, you must be trying to install Trunk Server. Th
   - The following sub-domains configured: www api admin account
 
 ### Ansible
-  - Install (Ansible)[https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#from-pip] on your local computer: 
+  - Install [Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#from-pip) on your local computer: 
   - update the `hosts` file with the IP address of your target server
   - update the `initalize.yml` with:
     - **DOMAIN** The domain you will be using
